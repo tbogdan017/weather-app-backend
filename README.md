@@ -18,6 +18,7 @@ npm install
 ```
 npm run dev
 ```
+* Selected port by default is 5000, so if it's occupied you'll need to change it in request **request.ts** file of frontend repository and **index.js** file of backend repository. 
 ## API Key Generation
 In order to use the app you'll need to follow these steps: 
 * Go to the Weather API site: https://www.weatherapi.com/
